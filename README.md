@@ -41,8 +41,8 @@
 ### 🧠 Últimos proyectos
 
 - 🔗 [MoodBoost](https://github.com/jcalzateb/moodboost) — Prototipo de bienestar emocional con Flutter + AR.
-- 🔗 [Booking Glowin]([https://github.com/jcalzateb/proyecto2](https://github.com/jcalzateb/Bookin-Glowin)) — Aplicación web de reservas en línea orientada a la gestión integral de servicios en un salón de belleza.
-- 🔗 [DH Odonto]([https://github.com/jcalzateb/proyecto3](https://github.com/jcalzateb/ctd-esp-fe3-final)) — aplicación moderna desarrollada con React y Vite, pensada para gestionar información sobre dentistas de forma intuitiva.
+- 🔗 [Booking Glowin](https://github.com/jcalzateb/proyecto2](https://github.com/jcalzateb/Bookin-Glowin)) — Aplicación web de reservas en línea orientada a la gestión integral de servicios en un salón de belleza.
+- 🔗 [DH Odonto](https://github.com/jcalzateb/proyecto3](https://github.com/jcalzateb/ctd-esp-fe3-final)) — aplicación moderna desarrollada con React y Vite, pensada para gestionar información sobre dentistas de forma intuitiva.
 
 ---
 
