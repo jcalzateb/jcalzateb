@@ -9,7 +9,7 @@
 - 🌱 Actualmente profundizo en **UX/UI**, **accesibilidad web** y **performance frontend**.
 - 🛠️ Me encanta convertir ideas en productos reales, desde el diseño hasta el código.
 - ✨ Disfruto el trabajo en equipo y construir soluciones con impacto.
-- 📫 Escríbeme a: **jcalzateb@gmail.com**
+- 📫 Escríbeme a: **juankalzateb@hotmail.com**
 
 ---
 
